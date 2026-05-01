@@ -51,21 +51,14 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/srivalasalan?theme=dark&font=baloo&ext=heatmap" />
+  <img height="300" src="https://leetcard.jacoblin.cool/srivalasalan?theme=nord&font=baloo&ext=heatmap" />
 </p>
 
 ---
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srivalasalan&show_icons=true&locale=en&layout=compact&theme=dark" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=srivalasalan&show_icons=true&locale=en&theme=dark" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=srivalasalan&show_icons=true&locale=en&layout=compact&theme=dark" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=srivalasalan&show_icons=true&locale=en&theme=dark" />
 </p>
