@@ -48,10 +48,7 @@
 
 ---
 
-<h3 align="left">LeetCode Stats:</h3>
-<p align="center">
-  <img height="300" src="https://leetcard.jacoblin.cool/srivalasalan?theme=nord&font=baloo&ext=heatmap" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Srivalasalan?theme=dark&font=Lato&ext=heatmap)
 
 ---
 
