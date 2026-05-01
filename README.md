@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Srivalasalan</h1>
 <h3 align="center">Software Associate | Java Backend Developer | Spring Boot & REST APIs</h3>
 
-- 🔭 I’m currently working on **Spring Boot, Spring Security, and secure REST APIs**
-- 🌱 I’m currently learning **BFSI domain concepts and Spring Security**
-- 👯 I’m looking to collaborate on **Java Spring Boot backend projects and REST API development**
-- 🤝 I’m looking for help with **Spring Security and enterprise backend best practices**
+- 🔭 I'm currently working on **Spring Boot, Spring Security, and secure REST APIs**
+- 🌱 I'm currently learning **BFSI domain concepts and Spring Security**
+- 👯 I'm looking to collaborate on **Java Spring Boot backend projects and REST API development**
+- 🤝 I'm looking for help with **Spring Security and enterprise backend best practices**
 - 💬 Ask me about **Java Backend Development**
-- 📫 How to reach me: **srivalasalan.dev@gmail.com**
+- 📫 How to reach me: **[srivalasalan.dev@gmail.com](mailto:srivalasalan.dev@gmail.com)**
 - ⚡ Fun fact: **I also develop games using Unity**
 
 ---
@@ -58,7 +58,14 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=srivalasalan&show_icons=true&locale=en&layout=compact" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=srivalasalan&show_icons=true&locale=en" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srivalasalan&show_icons=true&locale=en&layout=compact&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=srivalasalan&show_icons=true&locale=en&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </p>
