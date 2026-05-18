@@ -42,7 +42,7 @@
 <h3 align="left">IDEs I Use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,webstorm&perline=4" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,webstorm,idea&perline=5" />
   </a>
 </p>
 
